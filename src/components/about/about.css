@@ -59,3 +59,24 @@
 .skills__bar {
     background-color: #f1f1f1;
 }
+
+.skills__percentage {
+    display: block;
+}
+
+.development {
+    width: 90%;
+    background-color: rgb(255, 209, 92);
+}
+
+.ui__design {
+    width: 80%;
+    background-color: rgb(255, 76, 96);
+}
+
+
+.photography {
+    width: 60%;
+    background-color: rgb(108, 108, 299);
+}
+
