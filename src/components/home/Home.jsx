@@ -3,6 +3,7 @@ import "./home.css";
 import Me from "../../assets/avatar-1.svg"
 import HeaderSocials from './HeaderSocials';
 import ScrollDown from './ScrollDown';
+import Shapes from "./Shapes"
 const Home = () => {
     return (
  <section className="home conatiner" id="home">
@@ -19,8 +20,10 @@ const Home = () => {
 
         <ScrollDown />
         </div> 
+
+        <Shapes />
         </section>
-    )
+    );
 } 
 
 export default Home
