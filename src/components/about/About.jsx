@@ -1,6 +1,7 @@
 import React from 'react';
 import "./about.css";
 import Image from "../../assets/avatar-2.svg"
+import AboutBox from './AboutBox';
 const About = () => {
     return (
         <section className="about container section">
@@ -54,6 +55,8 @@ const About = () => {
                     </div>
                 </div>
             </div>
+
+            <AboutBox />
         </section>
     )
 }
