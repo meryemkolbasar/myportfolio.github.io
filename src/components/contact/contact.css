@@ -40,10 +40,10 @@
     z-index: 1;
 }
 
-contact__form-area {
+.contact__form-area {
     height: 10.25rem;
 }
 
-contact__form-area textarea {
+.contact__form-area textarea {
     resize: none;
 }
