@@ -157,4 +157,8 @@
     .about__container {
        grid-template-columns: 1fr;
     }
+
+    .about__boxes {
+        grid-template-columns: 1fr;
+    }
 }
