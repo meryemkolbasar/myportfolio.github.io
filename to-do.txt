@@ -1,0 +1,6 @@
+        Projeye eklenecek ozellikler
+
+1 - Dark/Light mode
+2 - Backend tarafi
+3 - Ozel avatar iconu
+4 - 
