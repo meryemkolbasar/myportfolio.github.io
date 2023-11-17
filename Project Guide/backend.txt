@@ -1,0 +1,19 @@
+Teknoloji Seçimi: 
+- Spring Framework
+
+Proje Yapısı Oluşturma: 
+- Spring Boot projesi oluşturulacak ve gerekli bağımlılıklar eklenecek. 
+Spring Web, Spring Data JPA, ve Spring Security gibi.
+
+Veritabanı Tasarımı:
+- Portföy öğelerini depolamak için bir veritabanı oluşturulacak. Bu, öğeler 
+(proje adı, açıklama, teknolojiler, resim URL'leri vb.) saklamak için kullanılır.
+- Kullanilicak veritabani: PostgreSQL 
+
+Veritabanı İşlemleri:
+- Spring Data JPA kullanarak, veritabanı ile iletişim kurmak için Repository sınıflarını oluşturulack. 
+- CRUD işlemleri (Create, Read, Update, Delete) için metodları içermelidirler.
+
+RESTful API'lar:
+- Frontend ile iletişim kurmak için RESTful API'lar oluşturun. Projeleri listeleyen, detaylarını getiren, 
+yeni proje ekleyen ve mevcut projeleri güncelleyen API endpoint'leri oluşturabilirsiniz.
