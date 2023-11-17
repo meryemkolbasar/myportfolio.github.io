@@ -15,5 +15,33 @@ Veritabanı İşlemleri:
 - CRUD işlemleri (Create, Read, Update, Delete) için metodları içermelidirler.
 
 RESTful API'lar:
-- Frontend ile iletişim kurmak için RESTful API'lar oluşturun. Projeleri listeleyen, detaylarını getiren, 
-yeni proje ekleyen ve mevcut projeleri güncelleyen API endpoint'leri oluşturabilirsiniz.
+- Frontend ile iletişim kurmak için RESTful API'lar oluşturulacak. Projeleri listeleyen, detaylarını getiren, 
+yeni proje ekleyen ve mevcut projeleri güncelleyen API endpoint'ler oluşturulabilir.
+
+Güvenlik:
+- Kullanıcı kimlik doğrulama ve yetkilendirme işlemleri eklenecek. 
+Spring Security kullanarak kullanıcıların kayıt olmaları ve giriş yapmaları sağlanacak.
+
+Dosya Yönetimi:
+- Proje resimleri gibi dosyaları depolamak için bir dosya yönetim sistemi eklenecek. 
+Bu dosyaların yüklenmesi, silinmesi ve erişilmesi için API endpoint'leri oluşturulacak.
+
+E-posta Gönderme (Opsiyonel):
+- İletişim formu gibi özellikler için e-posta gönderme yeteneği eklenecek. 
+Bu, kullanıcıların bana doğrudan ulaşmasını sağlayabilir.
+
+Hata Yönetimi ve Günlükleme:
+- Hata durumlarına karşı güvenilir bir hata yönetimi ve günlükleme sistemi eklenecek.
+Bu, olası hataları izlememe ve çözmeme yardımcı olacak.
+
+Deployment:
+- Backend uygulamam bir sunucuya dağitilacak. 
+AWS, Heroku veya benzer bulut hizmetlerini kullanabilirim.
+
+Frontend & Backend arasi iletisim:
+- Frontend ve Backend arasındaki iletişimi sağlamak için uygun API'lar tanımlanacak.
+
+
+
+
+
