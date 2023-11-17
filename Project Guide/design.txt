@@ -1,5 +1,6 @@
         Projeye eklenecek ozellikler
 - Ozel avatar iconu
+- Site tasarimi sadelestirilebilir
 
 
 
