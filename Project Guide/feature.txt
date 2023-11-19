@@ -1,3 +1,4 @@
 - Dark/Light mode
 - Experience kismindan is tecrubesi yoruma alinacak 
 - Akademik kariyer kismina Richmond College Bachelor Degree eklenecek
+-
