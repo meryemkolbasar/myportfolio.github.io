@@ -11,4 +11,5 @@
 - Pricing Plans yoruma alinacak.
 - Clients & Reviews kismi yoruma alinacak
 - Latest Posts kismina medium hesabimdaki bloglar eklencek.
-- 
+-
+-
