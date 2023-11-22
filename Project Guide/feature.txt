@@ -9,4 +9,6 @@
 - Nominees winner kisminin cikarilip cikarilmaycagi dusunulecek.
 - Recent works kismina yeni yaptigin projeler eklenecek. Basit projeler olmamasi lazim.
 - Pricing Plans yoruma alinacak.
+- Clients & Reviews kismi yoruma alinacak
+- Latest Posts kismina medium hesabimdaki bloglar eklencek.
 - 
