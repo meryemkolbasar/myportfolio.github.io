@@ -1,9 +1,11 @@
 - Dark/Light mode
 - Experience kismindan is tecrubesi yoruma alinacak 
 - Akademik kariyer kismina Richmond College Bachelor Degree eklenecek
-- About kismindan Photography ve UI/UX design cikarilacak.
+- Photography ve UI/UX design cikarilacak.
 - About kismindaki Project completed bolumunden kac tane proje yaptiysan o yazilacak.
 - Cup of coffee kismi cikarilabilir.
 - Satisfied clients yoruma alinacak, cunku musterim daha olmadi.
 - Download CV butonu icerisine Backend tarafina baglantili yapip, dijital CV eklenecek.
 - Nominees winner kisminin cikarilip cikarilmaycagi dusunulecek.
+- Recent works kismina yeni yaptigin projeler eklenecek. Basit projeler olmamasi lazim.
+- 
