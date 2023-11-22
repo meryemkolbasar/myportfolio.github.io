@@ -8,4 +8,5 @@
 - Download CV butonu icerisine Backend tarafina baglantili yapip, dijital CV eklenecek.
 - Nominees winner kisminin cikarilip cikarilmaycagi dusunulecek.
 - Recent works kismina yeni yaptigin projeler eklenecek. Basit projeler olmamasi lazim.
+- Pricing Plans yoruma alinacak.
 - 
