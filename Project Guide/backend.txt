@@ -41,7 +41,7 @@ AWS, Heroku veya benzer bulut hizmetlerini kullanabilirim.
 Frontend & Backend arasi iletisim:
 - Frontend ve Backend arasındaki iletişimi sağlamak için uygun API'lar tanımlanacak.
 
-
+-
 
 
 
