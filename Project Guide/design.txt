@@ -2,6 +2,7 @@
 - Ozel avatar iconu
 - Site tasarimi sadelestirilebilir
 -
+-
 
 
 
