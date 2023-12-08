@@ -6,7 +6,7 @@ import ScrollDown from './ScrollDown';
 import Shapes from "./Shapes"
 const Home = () => {
     return (
- <section className="home conatiner" id="home">
+ <section className="home container" id="home">
     <div className="intro">
         <img src={Me} alt="" className="home__img" />
         <h1 className="home__name">Meryem Kolbasar</h1>
