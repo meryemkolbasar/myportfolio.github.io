@@ -1,4 +1,4 @@
-![logo](https://github.com/meryemkolbasar/MeryemKolbasar/blob/3bd68a3f70a2707ae00a22a299a76f848a978e4f/Banner.png)
+![logo](https://github.com/meryemkolbasar/myportfolio-project/blob/c4773178ae01dd6e922ece90764163d519325aef/portfolio-project-banner.png)
 
 # React Portfolio Website
 
