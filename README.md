@@ -1,3 +1,5 @@
+![logo](https://github.com/meryemkolbasar/MeryemKolbasar/blob/3bd68a3f70a2707ae00a22a299a76f848a978e4f/Banner.png)
+
 # React Portfolio Website
 
 Bu proje, "React Portfolio Website Tutorial From Scratch - Build & Deploy Responsive React JS Portfolio Website" adlı YouTube videosundan ilham alarak geliştirilmiştir.
