@@ -2,36 +2,38 @@
 
 <h1 align="center">React Portfolio Website</h1>
 
-_This project is developed by drawing inspiration from the YouTube tutorial "React Portfolio Website Tutorial From Scratch - Build & Deploy Responsive React JS Portfolio Website"._
-1. [React Portfolio Website Tutorial - Video 1](https://youtu.be/o3IP5HeFRO0?feature=shared)
-2. [React Portfolio Website Tutorial - Video 2](https://youtu.be/9wdErl1gA4E?feature=shared)
-
 <h3>Project Description</h3>
 
 ---
 
-_This portfolio project is a website where you can share personal and professional information, showcase your projects, and generally present yourself better. It stands out with its responsive design, use of React, and user-friendly interface._
+_This portfolio project is a personal website where you can share personal and professional information, showcase your projects, and present yourself effectively. It stands out with its responsive design, use of React, and user-friendly interface._
+
+**Key Features:**
+- Responsive Design
+- Easy to Customize
+- Integrated with Modern Web Technologies (React, JavaScript, CSS)
+- Showcases Personal Projects and Professional Information
 
 <h3>Installation</h3>
 
 ---
 
-1. Download the project files to your computer.
+1. Download the project files to your computer:
     ```bash
-    git clone https://github.com/kullanici_adi/react-portfolio.git
+    git clone https://github.com/meryemkolbasar/react-portfolio.git
     ```
 
-2. Navigate to the project directory.
+2. Navigate to the project directory:
     ```bash
     cd react-portfolio
     ```
 
-3. Install the necessary dependencies.
+3. Install the necessary dependencies:
     ```bash
     npm install
     ```
 
-4. Start the project.
+4. Start the project:
     ```bash
     npm start
     ```
@@ -60,7 +62,16 @@ _To personalize this portfolio project, you can follow these steps:_
 
 ---
 
-_This project is developed by drawing inspiration from the "React Portfolio Website Tutorial From Scratch" video on the "Cryptical Coder" YouTube channel. Refer to the relevant files or documentation of the libraries and resources used in the project for their licenses._
+_Refer to the relevant files or documentation of the libraries and resources used in the project for their licenses._
+
+<h3>Credits</h3>
+
+---
+
+_This project is developed by drawing inspiration from the YouTube tutorial "React Portfolio Website Tutorial From Scratch - Build & Deploy Responsive React JS Portfolio Website."_
+
+1. [React Portfolio Website Tutorial - Video 1](https://youtu.be/o3IP5HeFRO0?feature=shared)
+2. [React Portfolio Website Tutorial - Video 2](https://youtu.be/9wdErl1gA4E?feature=shared)
 
 <h3>Contact</h3>
 
