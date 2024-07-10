@@ -20,12 +20,12 @@ _This portfolio project is a personal website where you can share personal and p
 
 1. Download the project files to your computer:
     ```bash
-    git clone https://github.com/meryemkolbasar/react-portfolio.git
+    git clone https://github.com/meryemkolbasar/myportfolio-project.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd react-portfolio
+    cd myportfolio-project
     ```
 
 3. Install the necessary dependencies:
