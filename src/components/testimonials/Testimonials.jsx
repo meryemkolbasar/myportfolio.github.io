@@ -1,3 +1,4 @@
+/*
 import React from 'react'
 import "./testimonials.css";
 import Image1 from "../../assets/avatar-1.svg";
@@ -62,3 +63,4 @@ const Testimonials = () => {
 }
  
 export default Testimonials
+*/

@@ -1,4 +1,4 @@
-import React from 'react'
+{/*import React from 'react'
 
 const Shapes = () => {
   return (
@@ -164,3 +164,4 @@ const Shapes = () => {
 }
 
 export default Shapes
+*/}

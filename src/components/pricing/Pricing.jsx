@@ -1,3 +1,4 @@
+/*
 import React from 'react'
 import "./pricing.css";
 import Image1 from "../../assets/price-1.svg"
@@ -50,3 +51,4 @@ const Pricing = () => {
 }
 
 export default Pricing
+*/

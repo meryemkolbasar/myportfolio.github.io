@@ -16,31 +16,32 @@
 }
 
 .services__card:nth-child(1) {
-    background-color: rgb(108, 108, 229);
+    background-color: rgb(7, 18, 146);
     box-shadow: 0px 5px 20px 0px rgb(108, 108, 229 / 50%);
 }
-.services__card:nth-child(2) {
-    background-color: rgb(249, 215, 76);
-    box-shadow: 0px 5px 20px 0px rgb(249, 215, 76 / 50%);
-}
 
-.services__card:nth-child(3) {
-    background-color: rgb(249, 123, 139);
+.services__card:nth-child(2) {
+    background-color: rgb(230, 248, 72);
     box-shadow: 0px 5px 20px 0px rgb(249, 123, 139 / 50%);
 }
 
-.serevices__img {
+.services__card:nth-child(3) {
+    background-color: rgb(150, 3, 3);
+    box-shadow: 0px 5px 20px 0px rgb(249, 123, 139 / 50%);
+}
+
+.services__img {
     margin-bottom: 1.25rem;
 }
 
 .services__title {
     font-size: var(--h3-font-size);
     margin-bottom: 1rem;
-    color: #fff;
+    color: #fff; 
 }
 
 .services__description {
-    color: #f8f9fa;
+    color: #ffffff;
 }
 
 .services__card:nth-child(2) .services__title {
@@ -53,20 +54,20 @@
 
 @media screen and (max-width: 1024px){
     .services__container {
-       grid-template-columns: repeat(2, 330px);
-       justify-content: center;
-       row-gap: 1.875rem;
+        grid-template-columns: repeat(2, 330px);
+        justify-content: center;
+        row-gap: 1.875rem;
     }
 }
 
 @media screen and (max-width: 768px){
     .services__container {
-       grid-template-columns: 310px;
+        grid-template-columns: 310px;
     }
 }
 
 @media screen and (max-width: 350px){
     .services__container {
-       grid-template-columns: 1fr;
+        grid-template-columns: 1fr;
     }
 }
