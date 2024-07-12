@@ -66,20 +66,19 @@
 
 .development {
     width: 90%;
-    background-color: rgb(255, 209, 92);
+    background-color: rgb(241, 190, 62);
 }
 
 .ui__design {
     width: 80%;
-    background-color: rgb(255, 76, 96);
+    background-color: rgb(181, 8, 28);
 }
-
 
 .photography {
     width: 60%;
-    background-color: rgb(108, 108, 299);
+    background-color: rgb(52, 4, 184);
 }
- 
+
 .about__boxes {
     grid-template-columns: repeat(4, 1fr);
     column-gap: 1.875rem;
@@ -117,6 +116,7 @@
 
     .about__img {
         justify-self: center;
+        
     }
 
     .about__box {
@@ -161,4 +161,9 @@
     .about__boxes {
         grid-template-columns: 1fr;
     }
+}
+
+.about__img {
+    width: 200px; 
+    height: auto; 
 }
