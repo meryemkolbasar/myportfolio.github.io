@@ -24,6 +24,7 @@ const About = () => {
                         </div>
                     </div>
 
+                    {/*  
                     <div className="about__skills grid">
                         <div className="skills__data">
                             <div className="skills__titles">
@@ -59,6 +60,7 @@ const About = () => {
                         </div>
                     
                     </div>
+                    */}
                 </div>
             </div>
 

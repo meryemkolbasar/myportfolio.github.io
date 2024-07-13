@@ -1,4 +1,5 @@
 .about__container {
+    display: grid;
     grid-template-columns: 3fr 9fr;
     column-gap: 1.875rem;
 }
@@ -8,7 +9,7 @@
     background-color: var(--container-color);
     box-shadow: var(--shadow);
     border-radius: var(--border-radius);
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: 1fr; /* Sadece sol kısım genişliği */
     column-gap: 1.875rem;
     align-items: flex-start;
     position: relative;
@@ -22,7 +23,7 @@
     border-bottom: 10px solid transparent;
     border-right: 15px solid var(--container-color);
     position: absolute;
-    left: -0.93;
+    left: -15px; /* Sağ kısmı kısaltmak için düzenleme */
     top: 20%;
 }
 
@@ -99,11 +100,11 @@
     font-size: 1.875rem;
 }
 
-@media screen and (max-width: 1024px){
+@media screen and (max-width: 1024px) {
     .about__container {
-       grid-template-columns: 720px;
-       justify-content: center;
-       row-gap: 1.875rem;
+        grid-template-columns: 720px;
+        justify-content: center;
+        row-gap: 1.875rem;
     }
 
     .about__data::before {
@@ -116,19 +117,18 @@
 
     .about__img {
         justify-self: center;
-        
     }
 
     .about__box {
         flex-direction: column;
-        row-gap: .5rem;
+        row-gap: 0.5rem;
         text-align: center;
     }
 }
 
-@media screen and (max-width: 768px){
+@media screen and (max-width: 768px) {
     .about__container {
-       grid-template-columns: 350px;
+        grid-template-columns: 350px;
     }
 
     .about__data::before {
@@ -147,15 +147,15 @@
     }
 }
 
-@media screen and (max-width: 576px){
+@media screen and (max-width: 576px) {
     .about__container {
         grid-template-columns: 320px;
     }
 }
 
-@media screen and (max-width: 350px){
+@media screen and (max-width: 350px) {
     .about__container {
-       grid-template-columns: 1fr;
+        grid-template-columns: 1fr;
     }
 
     .about__boxes {
@@ -164,6 +164,6 @@
 }
 
 .about__img {
-    width: 200px; 
-    height: auto; 
+    width: 200px;
+    height: auto;
 }

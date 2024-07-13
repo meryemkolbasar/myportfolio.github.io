@@ -11,7 +11,7 @@ const Data = [
     id: 2,
     category: "education",
     icon: "icon-graduation",
-    year: "01.28.2023 - 11.11.2023",
+    year: "28.01.2023 - 11.11.2023",
     title: "Full-Stack Java Developer Bootcamp",
     desc: "Completed Full-Stack Java Developer Bootcamp from January 28, 2023, to November 11, 2023.",
   },
