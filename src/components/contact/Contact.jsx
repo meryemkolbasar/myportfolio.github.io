@@ -41,6 +41,7 @@ const Contact = () => {
                 placeholder="Insert your name"
                 value={formData.name}
                 onChange={handleChange}
+                autoComplete="name"
               />
             </div>
 
@@ -52,6 +53,7 @@ const Contact = () => {
                 placeholder="Insert your email"
                 value={formData.email}
                 onChange={handleChange}
+                autoComplete="email"
               />
             </div>
           </div>
