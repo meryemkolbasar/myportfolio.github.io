@@ -31,7 +31,7 @@ const Blog = () => {
           </div>
         </div>
 
-        <div className="blog__card">
+        {/* <div className="blog__card">
           <div className="blog__thumb">
             <a href="https://www.linkedin.com/posts/meryemkolbasar_github-meryemkolbasarmyportfolio-project-activity-7185884717383057410-GYGy?utm_source=share&utm_medium=member_desktop" target="_blank" rel="noopener noreferrer">
               <span className="blog__category">Tutorial</span>
@@ -50,7 +50,7 @@ const Blog = () => {
           </div>
         </div>
 
-        {/* <div className="blog__card">
+        <div className="blog__card">
           <div className="blog__thumb">
             <a href="#">
               <span className="blog__category">Business</span>
