@@ -5,7 +5,7 @@ import Card from './Card';
 
 const Resume = () => {
   return (
-    <section className="resume container section" id="resume">    
+    <section className="resume container section" id="resume" data-testid="resume">    
       <h2 className="section__title">Experience</h2>
 
       <div className="resume__container grid">

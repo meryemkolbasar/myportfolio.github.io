@@ -6,7 +6,7 @@ import Image1 from "../../assets/blog-1.svg";
 
 const Blog = () => {
   return (
-    <section className="blog container section" id="blog">
+    <section className="blog container section" id="blog" data-testid="blog">
       <h2 className="section__title">Latest Posts</h2>
 
       <div className="blog__container grid">

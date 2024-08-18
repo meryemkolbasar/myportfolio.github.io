@@ -4,7 +4,6 @@ import App from './App';
 test('renders main components', () => {
   render(<App />);
 
-  // Ana bileşenlerin ekranda olup olmadığını kontrol edin
   const sidebarElement = screen.getByTestId('sidebar');
   const homeElement = screen.getByTestId('home');
   const aboutElement = screen.getByTestId('about');

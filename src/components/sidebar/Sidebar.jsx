@@ -7,7 +7,7 @@ const Sidebar = () => {
 
     return (
         <>
-            <aside className={toggle ? "aside show-menu" : "aside"}>
+            <aside className={toggle ? "aside show-menu" : "aside"} data-testid="sidebar">
                 <a href="#home" className="nav__logo">
                     <img src={Logo} alt="" />
                 </a>
